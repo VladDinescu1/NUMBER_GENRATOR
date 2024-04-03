@@ -1,0 +1,30 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/COMP_EQ.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module COMP_EQ
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/COM_BEH.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module COM_BEH
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/MUXXX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUXXX
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/RAM2k.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RAM2k
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/compute_struct.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module compute_struct
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/ct_11b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ct_11b
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/inmultire.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inmultire
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/modul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module modul
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/paritate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module paritate
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/reg_8b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_8b
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/scadere.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module scadere
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/subs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module subs
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sources_1/new/sumator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sumator
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Verilog/Problema_3_CV_nr_generator/Problema_3_CV_nr_generator.srcs/sim_1/new/sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim
